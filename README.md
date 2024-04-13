@@ -1,22 +1,53 @@
-### Hi there 👋, Sarankumar Baskar
-#### FullStack JAVA Developer
-
-Highly motivated and creative software engineer with 3 years of experience in web application development and Devops. A fast learner and self-starter with a persistent attitude towards problem solving. A team player with excellent interpersonal skills.
-
-Skills: 
- -   Languages Java 8, 11, PHP, JavaScript 
- -   JAVA technology SpringBoot - REST/SOAP, Spring JPA, Hibernate, Spring Cloud, Spring Security. 
- -   Cloud Technologies Amazon Web Services 
- -   Web Technologies RESTful Web services, React 
- -   SDLC Methodologies Agile Scrum, Waterfall 
- -   Webservers Apache tomcat 9.0 
- -   Databases MySQL  Version control tools Git repository Build Tool 
- -   Build Tool Maven  IDE and Tools Visual Studio Code, Eclipse, Azure DevOps, Postman
-
-- 🔭 I’m currently working on Spring Boot, Hibernate, Spring Security Scalable Application 
-- 🌱 I’m currently learning JAVA 
-- 😄 Pronouns: He/Him 
+## Hello 👋 I am SARANKUMAR BASKAR.
 
 
 
+First of all, thanks for visiting my profile. Here, what you should know about me:
+
+- I am a self driven passionate coder who loves to solve problems and write efficient codes.
+- My primary coding language: Java.
+- I am happy to discuss about: Data Structures and Algorithms, Programming in Java, Computer concepts(Operating Systems,Computer Networking,Databases), Cloud(AWS) and Linux.
+- I am looking forward to collaborate on Open-Source Projects.
+- I am just trying to impart my knowledge via repositories which will be quite helpful for those who codes in java. 
+
+<!-- ----------- TECH STACK SECTION ------------ -->
+
+- C: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- Java: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- Django: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- MySQL: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Git: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- GitHub Actions: ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+- Linux: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<hr>
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/Anchals24">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anchals24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  
+
+</a>
+</p>
+
+<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+
+![connect-with-me.png](./connect-with-me.png.png)
+
+
+<p align="center">
+<a href="https://discordapp.com/users/Sarankumar18/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="sarankumar-sk"/></a> <a href="https://www.linkedin.com/in/sarankumar-sk/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Saran_linkedIn"/></a> 
+</p>
+<hr>
+
+<!-- ----------- CONNECT WITH ME SECTION END ------------ -->
+
+[linkedin]: https://www.linkedin.com/in/anchal-sharma-57a08714a/
+[github]: https://github.com/Anchals24](https://github.com/Sarankumar18
+[gmail]:mailto:saranbaskar121@gmail.com
 
